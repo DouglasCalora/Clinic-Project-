@@ -1,0 +1,12 @@
+@media screen and (max-width: 500px) {
+    .about-us {
+        margin-bottom: 100px;
+    }
+    .rodape i {
+        margin-top: 20px;
+    }
+    .rodape h2 {
+        margin-top: 40px;
+        font-size: 16px;
+    }
+}
